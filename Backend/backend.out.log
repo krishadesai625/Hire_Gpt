@@ -1,0 +1,7 @@
+
+> yt-genai@1.0.0 start
+> node server.js
+
+◇ injected env (4) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+Server is running on port 3000
+Connected to Database
